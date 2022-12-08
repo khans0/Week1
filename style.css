@@ -1,0 +1,27 @@
+body {
+    background-color:pink;
+    text-align:center;
+}
+div.centered {
+        position: fixed;
+        top: 0%;
+        left: 15%;
+        margin-top: 40px;
+        margin-left: 100px;
+}
+h2 {
+    font-size: 20px;
+}
+div.box1{
+  box-sizing: border-box;
+  margin-top: 40px;
+  margin-left: 300px;
+  width: 910px;
+  height: 270px;
+  padding: 30px;  
+  box-shadow: 0px 20px 30px rgb(194,3,194);
+  border: 10px solid rgb(194, 3, 194)
+}
+div.middle{
+    font-size: 15px;
+}
